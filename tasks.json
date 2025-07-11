@@ -1,0 +1,23 @@
+{"tasks": [
+  {
+    "createdAt": "2025-07-11T11:03:22.095264600",
+    "description": "Programar os desafios",
+    "id": 1,
+    "status": "in-progress",
+    "updatedAt": "2025-07-11T14:21:36.632839700"
+  },
+  {
+    "createdAt": "2025-07-11T11:57:11.907242300",
+    "description": "Fazendo algo",
+    "id": 2,
+    "status": "in-progress",
+    "updatedAt": "11/07/2025 14:44:26"
+  },
+  {
+    "createdAt": "11/07/2025 15:48:12",
+    "description": "Tarefa a fazer",
+    "id": 4,
+    "status": "todo",
+    "updatedAt": "n/d"
+  }
+]}
