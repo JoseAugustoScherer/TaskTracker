@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido unicamente em Java.
 
 ## 💻 Projeto
 
+Link para o projeto: https://roadmap.sh/projects/task-tracker
+
 Este projeto, inspirado na seção de projetos Backend do site <a  href="https://roadmap.sh/" target="_blank">_**Roadmap.sh**_</a>, consiste na criação de uma interface de linha de comando (CLI) para gerenciar uma lista de tarefas. A aplicação permite criar, editar, excluir e listar tarefas, que são persistidas em um arquivo JSON.
 Para a manipulação dos dados em JSON, foi utilizada a biblioteca **org.json**. A estrutura do projeto é intencionalmente simples, contida em uma única classe para facilitar o entendimento.
 
